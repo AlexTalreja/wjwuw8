@@ -51,16 +51,17 @@ ul {
 }
 
 body {
-  font-family: sans-serif;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
   margin: 20px;
   padding: 0;
 }
 
 .square {
-  background: #fff;
-  border: 1px solid #999;
+  background: #ffd83e; 
+  border: 2px solid #d62bf4;
   float: left;
-  font-size: 24px;
+  font-size: 22px;
+  font-family: cursive;
   font-weight: bold;
   line-height: 34px;
   height: 34px;
